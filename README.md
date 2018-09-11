@@ -1,3 +1,3 @@
-# JenkinsTest 1
+# JenkinsTest
 Testing Jenkins Using Katacoda
-First Test Using Jenkins
+Second Test Using Jenkins
